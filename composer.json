@@ -1,5 +1,6 @@
 {
     "name": "apple9915/yii2-rpc",
+    "description": "desc",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -8,5 +9,13 @@
             "email": "492535151@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "psr-4": {
+                "Hprose\\Yii\\": "src/Hprose/Yii"
+            }
+        ]
+    }
 }
+

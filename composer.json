@@ -1,0 +1,12 @@
+{
+    "name": "storm/yii2-rpc",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lijunxian",
+            "email": "492535151@qq.com"
+        }
+    ],
+    "require": {}
+}

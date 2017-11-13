@@ -15,6 +15,6 @@
             "yii2-rpc\\" : "vendor/apple9915/yii2-rpc/src"
         }
     },
-    "minimum-stability":"dev"
+    "minimum-stability": "stable"
 }
 
